@@ -1,0 +1,13 @@
+{
+  "name": "vcpkg-imgui-emscripten",
+  "version-string": "0.0.1",
+  "dependencies": [
+    "opengl",
+    "sdl2",
+    {
+      "name": "imgui",
+      "default-features": false,
+      "features": [ "freetype", "opengl3-binding",  "sdl2-binding"]
+    }
+  ]
+}
