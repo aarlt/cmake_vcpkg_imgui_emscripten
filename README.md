@@ -1,5 +1,8 @@
 # cmake-vcpkg-imgui-emscripten
 
+**IF ANYONE FOUND THIS HERE, I HAVE A QUESTION:**
+- **[HOW CAN MULTI-THREADING BE ACTIVATED IN EMSCRIPTEN?](https://github.com/aarlt/cmake_vcpkg_imgui_emscripten/issues/1#issue-1630469401)**
+
 ## Normal Build
 
 ```shell
